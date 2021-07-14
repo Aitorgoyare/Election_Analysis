@@ -30,7 +30,7 @@ The analysis of the election show that:
   * The winner of the election was:
       * Candidate Diana DeGette, who recieved 82.8% of the total vote with 272,892 votes.
 
-## Challenge Overview
+## Overview of Election Audit
 
 The election commission has requested some additional data to complete the audit:
 
@@ -38,7 +38,7 @@ The voter turnout for each county
 The percentage of votes from each county out of the total count
 The county with the highest turnout
 
-## Challenge Summary
+## Election Audit Results
 
 #### Election Results
 
@@ -58,8 +58,13 @@ Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
+
 Election Winner: 
 
 Diana DeGette
 Vote Count: 272,892
 Percentage: 73.8%
+
+## Election Audit Summary
+We can modify the script to generate more detailed information. For example, we can use splitting the results by zip code.
+Another way to edit the script would be in the case of having a more detailed database containing gender, age, education, etc. and be able to better segment the results.
