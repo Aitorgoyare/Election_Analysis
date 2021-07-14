@@ -8,7 +8,7 @@ The purpose of this project was to provide an election audit for the Colorado Bo
 4. Calculate the total number of votes each candidate received. 
 5. Calculate the percentage of votes each candidate won. 
 6. Determine the winner of the election based on popular vote. 
-7. 
+
 8. ## Resources
 Data Source: election_results.csv 
 Software: Python 3.7.6, Visual Studio Code 
